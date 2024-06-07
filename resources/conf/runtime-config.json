@@ -1,0 +1,14 @@
+{
+  "LOCAL": {
+    "ConfDBPwd": "",
+    "SecretKey": ""
+  },
+  "UAT": {
+    "ConfDBPwd": "",
+    "SecretKey": ""
+  },
+  "PROD": {
+    "ConfDBPwd": "",
+    "SecretKey": ""
+  }
+}

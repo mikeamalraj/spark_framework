@@ -1,0 +1,11 @@
+py4j
+pandas
+cryptography
+pyspark==3.4.3
+configparser
+PyMySQL
+sqlalchemy
+pyyaml
+sqlparse
+scipy
+networkx

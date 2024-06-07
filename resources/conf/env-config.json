@@ -1,0 +1,16 @@
+{
+  "LOCAL": {
+    "Driver": "mysql+pymysql",
+    "User": "root",
+    "Host": "localhost",
+    "Port": "3306",
+    "Database": "stm_config"
+  },
+  "UAT": {
+    "Driver": "mysql+pymysql",
+    "User": "uat_user",
+    "Host": "uat",
+    "Port": "60022",
+    "Database": "stm_config"
+  }
+}
